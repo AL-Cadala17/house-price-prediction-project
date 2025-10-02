@@ -26,6 +26,9 @@ A modern Next.js 15 frontend application for house price prediction with updated
 ## 🚀 Quick Start
 
 ```bash
+# Installs all the project dependencies listed in the package.json file
+npm install
+
 # Start development server
 npm run dev
 
