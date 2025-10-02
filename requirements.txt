@@ -1,0 +1,11 @@
+#Flask for the web server
+Flask
+Flask-Cors
+
+#Data handling and machine learning
+pandas
+numpy
+scikit-learn
+
+#For saving and loading models
+joblib
